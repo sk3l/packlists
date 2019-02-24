@@ -1,0 +1,26 @@
+centos-release-scl
+
+rh-git29
+rh-python36
+rh-python36-python-devel
+rh-postgresql10
+devtoolset-7
+tree
+# vim
+
+## For building custom vim ##
+lua 
+lua-devel 
+luajit 
+luajit-devel 
+ctags 
+tcl-devel 
+perl 
+perl-devel
+perl-ExtUtils-ParseXS
+perl-ExtUtils-XSpp 
+perl-ExtUtils-CBuilder
+perl-ExtUtils-Embed
+##
+
+wget

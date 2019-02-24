@@ -1,0 +1,49 @@
+#~~~ KDE stuff ~~~
+plasma-desktop
+plasma-nm		# NetworkManager
+plasma-widgets-addons
+pulseaudio-bluetooth
+sddm
+dolphin
+kcalc
+kate
+kde-telepathy
+kaffeine
+konsole
+gwenview
+software-properties-gtk
+pavucontrol-qt
+pulseaudio-equalizer
+plymouth-theme-kubuntu-logo
+qgit
+
+#~~~ Linux stuff ~~~
+man-db
+nvdia-drivers-415	# Proprietary Nvidia display drivers
+bbswitch          # Nvidia hybrid graphics kernel switch
+nfs-common
+pciutils
+mesa-utils
+nfs-kernel-server
+net-tools
+rsync
+telnet
+tmux
+tree
+vim-nox
+ufw
+openssh-server
+
+#~~~ Media stuff ~~~
+chromium-browser
+gimp
+okular
+
+#~~~ Productivity stuff ~~~
+libreoffice
+hplip
+keepassx
+hplip-gui
+
+#~~~ Programming stuff ~~~
+git
